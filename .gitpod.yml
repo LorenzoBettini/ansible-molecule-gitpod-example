@@ -8,3 +8,5 @@ tasks:
 vscode:
   extensions:
     - ms-azuretools.vscode-docker
+    - eamodio.gitlens
+    - redhat.ansible
