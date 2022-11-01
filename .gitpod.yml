@@ -1,2 +1,3 @@
 tasks:
   - init: pip install ansible "molecule[docker]" # runs during prebuild
+    before: molecule create # executed on every start and is expected to terminate
