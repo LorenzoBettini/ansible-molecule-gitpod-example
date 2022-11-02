@@ -9,5 +9,3 @@ vscode:
   extensions:
     - ms-azuretools.vscode-docker
     - eamodio.gitlens
-    - redhat.ansible
-    - ms-python.python
